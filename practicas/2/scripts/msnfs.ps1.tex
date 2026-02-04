@@ -1,0 +1,7 @@
+Install-WindowsFeature -Name FS-NFS-Service -IncludeManagementTools
+
+New-Item -Path "D:\Shares\nfs2" -ItemType Directory
+
+New-NfsShare -Name "msnfsA" -Path "D:\Shares\nfs2" -Authentication sys 
+
+Grant-NfsSharePermission -Name "msnfsA" -ClientName "192.168.25.1" -ClientType "host" -Permission "readwrite" -AllowRootAccess $True 
