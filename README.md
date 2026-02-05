@@ -1,5 +1,8 @@
 # Administración de Sistemas Operativos y Redes de los Computadores
 
+> [!TIP]
+> Recuerda destacar ⭐ el proyecto para dar visibilidad.  
+
 ASORC es una obligatoria de 3º para cualquier itinerario/especialización cuyo objetivo es manejarse con los diferentes sistemas operativos.
 
 Aquí se presentan apuntes, entregas de prácticas que puedan resultar de ayuda para todo aquel que curse esta asignatura o este interesado en conocer en detalle de lo que se vaya a hacer en esta.
@@ -65,7 +68,18 @@ Instalar servicios. Lo difícil aquí es Windows y en compaginar la asignatura c
 
 **Recomendación:** Si tienes poco espacio evita usar a toda costa *flatpak* y *snaps*.
 
+> [!WARNING]
+> Los *scripts* que se facilitan están acorde a mi configuración personal. Pueden no hacer lo esperado si no revisas antes su funcionamiento.
+
+> [!WARNING]
+> Para ejecutar los *scripts* muchos con de copia y pega directamente en la terminal, o bien ejecutar línea a línea.  
+
 ### Práctica 3
 
 Lo mismo que lo anterior. De hecho es complementaria a la 2 porque hay servicios que dependen de los anteriores. Lo difícil aquí es FreeBSD y Windows. Los puntos de *groupware*, wol, pxe son tediosos por la falta de información (información desactualizada de las presentaciones, poca info en internet, IA alucina...).
 
+> [!WARNING]
+> Los *scripts* que se facilitan están acorde a mi configuración personal. Pueden no hacer lo esperado si no revisas antes su funcionamiento.
+
+> [!WARNING]
+> Para ejecutar los *scripts* muchos con de copia y pega directamente en la terminal, o bien ejecutar línea a línea.  
